@@ -65,7 +65,7 @@ sr.reveal(`.profile__buttons`, {delay: 800})
 sr.reveal(`.filters__content`, {delay: 900})
 sr.reveal(`.filters`, {delay: 1000})
 console.log(
-  "%c Coder : Đinh Duy Vinh %c",
+  "%c Coder : Hoàng Hào %c",
   'font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:24px;color:#00bbee;-webkit-text-fill-color:#00bbee;-webkit-text-stroke: 1px #00bbee;',
   "font-size:12px;color:#999999;"
 );
