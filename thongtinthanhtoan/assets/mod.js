@@ -49,4 +49,4 @@
                 }(), n()
             }(window, document);
 
-var text = "Trinh Ngoc Minh";
+var text = "Hoang Hao";
